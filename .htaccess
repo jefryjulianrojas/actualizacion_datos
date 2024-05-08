@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^elegant/?$ /elegant/inicio.php [R=301,L]
